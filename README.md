@@ -2,14 +2,12 @@
 
 My name is Maxime Desmet and welcome to my profile.
 
-I'm currently transforming my career track into data analytics.
-Most of my time is focused on learning SQL on DATACAMP.
-Besides that I follow a webinar every monday teaching me everything about data analytics world out there.
+Currently transforming my career track into data analytics.
 
-I'm very curious about starting some of my own projects soon and I hope to share them with you here on Github.
+Always looking for new tips and ideas to have more hands on coding practice with SQL and Python.
 
-Always open for tips and ideas to have more hands on coding practice with SQL and Python.
-You can reach out to me here on Github.
+Reach out to me here:
+linkedin.com/in/maxime-desmet-9a1776398
 
 Kind regards,
 Maxime ✌️
