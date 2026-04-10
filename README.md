@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-My name is Maxime Desmet and welcome to my profile.
+My name is Maxime and welcome to my profile.
 
-Currently transforming my career track into data analytics.
+Transforming my career into data analytics.
 
-Always looking for new tips and ideas to have more hands on coding practice with SQL and Python.
+## My current status and growth process 📈
 
-Reach out to me [here](linkedin.com/in/maxime-desmet-9a1776398)
+- Intermediate SQL ✅ -- datacamp
+- Introduction to Python ✅ -- datacamp
+
+You can contact me [here](linkedin.com/in/maxime-desmet-9a1776398)
 
 Kind regards,
 Maxime ✌️
