@@ -2,14 +2,23 @@
 
 My name is Maxime and welcome to my profile.
 
-Transforming my career into data analytics.
+Currently I'm transforming my career into data analytics.
 
 ## My current status and growth process 📈
 
 - Intermediate SQL ✅ -- datacamp
 - Introduction to Python ✅ -- datacamp
+- Book sales data analysis ⏳
 
-You can contact me [here](linkedin.com/in/maxime-desmet-9a1776398)
+## You can help me 🤝
+
+Feel free to have a look at my current work in progress.
+Any kind of advice, tips and/or corrections are most welcome.
+
+You can find my work here on my profile, just browse my public repositories.
+
+## You can contact me 📬
+[here](linkedin.com/in/maxime-desmet-9a1776398)
 
 Kind regards,
 Maxime ✌️
